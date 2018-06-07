@@ -29,7 +29,7 @@ demo/pandas
 ^_pkgdown\.yml$
 ^issues$
 ^tic\.R$
-^CONDUCT\.md$
+^CODE_OF_CONDUCT\.md$
 ^archive$
 ^\.drake$
 ^CRAN-RELEASE$
